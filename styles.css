@@ -54,7 +54,8 @@ p {
     text-align: center;
     min-height: 250px;
     color: #fff;
-    background-color: #9480e4;
+    background: #9480e4 url("/images/intro-bg.png");
+    background-size: cover;
 }
 
 /* Main content */
