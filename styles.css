@@ -78,19 +78,41 @@ p {
 
 /* Form */
 
-input {
+input,
+.btn {
+    font-family: inherit;
     width: 100%;
+    border-radius: 5px;
+}
+
+input {
+
     margin-bottom: .75em;
     padding: .5em;
     border: 2px solid #D1D5DB;
-    border-radius: 5px;
-    font-family: inherit;
 }
 
 input:focus {
     outline: none;
     border-color: #8A71EC;
     background-color: #E6E8EC;
+}
+
+.btn {
+    text-transform: uppercase;
+    font-weight: 800;
+    letter-spacing: 1px;
+    outline: none;
+    border: none;
+    padding: 1em 0;
+    margin: 1em auto;
+    background-color: #8A71EC;
+    color: #fff;
+}
+
+.btn:hover {
+    background-color: #B7A7F6;
+    cursor: pointer;
 }
 
 /* Media queries */
