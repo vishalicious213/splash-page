@@ -16,7 +16,9 @@ body {
 /* Typography */
 
 h1 {
+    font-size: 2.5rem;
     font-weight: 400;
+    text-shadow: 0 2px #816fca;
 }
 
 .beta-text { 
