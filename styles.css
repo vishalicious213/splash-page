@@ -1,6 +1,8 @@
 body {
     font-family: 'Source Sans Pro', sans-serif;
     color: #404040;
+    margin: 0;
+    padding: 0;
 }
 
 /* Typography */
@@ -20,7 +22,12 @@ h1 {
 
 /* Intro */
 
-.intro { 
+.intro {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 250px;
     color: #fff;
     background-color: #9480e4;
 }
