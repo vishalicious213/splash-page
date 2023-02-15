@@ -2,7 +2,6 @@ body {
     font-family: 'Source Sans Pro', sans-serif;
     color: #404040;
     margin: 0;
-    padding: 0;
 }
 
 /* Flex containers */
@@ -71,3 +70,15 @@ p {
 /* Form */
 
 /* Media queries */
+
+@media screen and (min-width: 576px) {
+    body {
+        display: flex;
+        /* align-items: center; */
+    }
+
+    .intro,
+    .main-content {
+        width: 50%;
+    }
+}
