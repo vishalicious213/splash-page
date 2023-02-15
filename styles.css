@@ -90,4 +90,16 @@ p {
         justify-content: center;
         padding-top: 0;
     }
+
+    h1 {
+        font-size: 3.25rem;
+    }
+
+    h2 {
+        font-size: 2.625rem;
+    }
+
+    .beta-text {
+        font-size: 1.25rem;
+    }
 }
