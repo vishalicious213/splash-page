@@ -21,6 +21,11 @@ h1 {
     text-shadow: 0 2px #816fca;
 }
 
+h2 {
+    font-size: 2.25rem;
+    margin: .16em 0;
+}
+
 .beta-text { 
     font-weight: 900;
 }
