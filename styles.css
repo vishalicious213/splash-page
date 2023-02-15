@@ -85,4 +85,9 @@ p {
     .intro {
         min-height: 100vh;
     }
+
+    .main-content {
+        justify-content: center;
+        padding-top: 0;
+    }
 }
