@@ -10,6 +10,8 @@ body {
 .main-content {
     display: flex;
     flex-direction: column;
+    padding-left: 2em;
+    padding-right: 2em;
 }
 
 /* Typography */
@@ -59,7 +61,7 @@ p {
 
 .main-content {
     align-items: center;
-    padding: 2.5em 2em 0;
+    padding-top: 2.5em;
 }
 
 .img-main {
@@ -92,7 +94,7 @@ p {
     }
 
     h1 {
-        font-size: 3.25rem;
+        font-size: 5vw;
     }
 
     h2 {
