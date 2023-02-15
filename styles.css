@@ -105,12 +105,16 @@ input:focus {
     outline: none;
     border: none;
     padding: 1em 0;
-    margin: 1em auto;
+}
+
+.btn-primary {
+    margin-top: 1em;
     background-color: #8A71EC;
     color: #fff;
 }
 
-.btn:hover {
+.btn-primary:hover,
+.btn-primary:focus {
     background-color: #B7A7F6;
     cursor: pointer;
 }
