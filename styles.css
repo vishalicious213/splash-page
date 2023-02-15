@@ -34,6 +34,12 @@ h1 {
 
 /* Main content */
 
+.main-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px 32px 0;
+}
 
 /* Form */
 
