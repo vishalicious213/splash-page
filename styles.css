@@ -5,6 +5,14 @@ body {
     padding: 0;
 }
 
+/* Flex containers */
+
+.intro,
+.main-content {
+    display: flex;
+    flex-direction: column;
+}
+
 /* Typography */
 
 h1 {
@@ -23,8 +31,6 @@ h1 {
 /* Intro */
 
 .intro {
-    display: flex;
-    flex-direction: column;
     justify-content: center;
     text-align: center;
     min-height: 250px;
@@ -35,10 +41,8 @@ h1 {
 /* Main content */
 
 .main-content {
-    display: flex;
-    flex-direction: column;
     align-items: center;
-    padding: 40px 32px 0;
+    padding: 2.5em 2em 0;
 }
 
 .img-main {
