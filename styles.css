@@ -47,6 +47,12 @@ p {
     line-height: 1.35;
 }
 
+.fine-print {
+    font-size: 0.75rem;
+    letter-spacing: 1px;
+    color: #858585;
+}
+
 /* Intro */
 
 .intro {
