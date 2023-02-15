@@ -36,6 +36,11 @@ h2 {
     margin-bottom: .5em;
 }
 
+.beta-text,
+.subheading {
+    text-transform: uppercase;
+}
+
 p {
     font-size: 1.125rem;
     line-height: 1.35;
