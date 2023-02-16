@@ -99,6 +99,10 @@ form {
 
 /* Form */
 
+form {
+    margin: 1em 0;
+}
+
 input,
 .btn {
     font-family: inherit;
