@@ -52,6 +52,7 @@ p {
     font-weight: 900;
     padding-top: 0.25em;
     border-top: 5px solid;
+    margin: 0 auto;
     order: -1;
 }
 
@@ -70,6 +71,7 @@ p {
     color: #fff;
     background: #9480e4 url("/images/intro-bg.png");
     background-size: cover;
+    padding-bottom: 1.5em;
 }
 
 /* Main content */
