@@ -1,3 +1,9 @@
+*, 
+*::before, 
+*::after {
+    box-sizing: border-box;
+}
+
 body {
     font-family: 'Source Sans Pro', sans-serif;
     color: #404040;
@@ -101,7 +107,6 @@ input,
 }
 
 input {
-
     margin-bottom: .75em;
     padding: .5em;
     border: 2px solid #D1D5DB;
