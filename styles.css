@@ -47,6 +47,13 @@ p {
     line-height: 1.35;
 }
 
+.top-text {
+    font-size: 0.875rem;
+    font-weight: 900;
+    padding-top: 0.25em;
+    border-top: 5px solid;
+}
+
 .fine-print {
     font-size: 0.75rem;
     letter-spacing: 1px;
