@@ -6,7 +6,11 @@ Deployed at: https://vish213-scrimbafy.netlify.app/
 
 Original design from Scrimba:
 
-![](/img/design.jpg)
+![](/images/design.jpg)
+
+This is a link to the repository with a redesign/customization of the project that I built:
+
+- https://github.com/vishalicious213/deathfest
 
 ## CSS concepts
 
